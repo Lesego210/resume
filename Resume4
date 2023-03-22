@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" type="text/css" href="style.css" desktop="MyCodeSpaceProjects" />
-        <title>resume3.html</title> 
+    
+        <title>resume4.html</title> 
+        <link rel="stylesheet" href="./sheet.css" />
     </head>
 
     <header>
