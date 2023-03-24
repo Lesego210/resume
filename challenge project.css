@@ -1,0 +1,33 @@
+/* ---- back to top ----
+*/
+#back-to-top {
+    background-color:blue;
+    position: relative;
+   width: 80px;
+   height: 80px;
+
+}
+
+/* ---- Nav ---- */
+#navbar {
+    position: sticky;
+    top: 80px;
+
+}
+
+#header {
+    background-position: overflow;
+    position: relative;
+
+}
+
+/* ----header ---- */
+#header-image {
+    background-image:C:\Users\yvonn\Downloads\1-positioning-challenge-template.zip.1-positioning-challenge-template (1).zip\a-project-template\image ;
+background-position:content;
+background-repeat: no repeat;
+background-size: over-flow;
+    position: relative;
+  
+}
+
